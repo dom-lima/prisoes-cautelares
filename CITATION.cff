@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Se usar esta obra, cite-a conforme os metadados abaixo."
+title: "Prisão em flagrante, prisão temporária, prisão preventiva e audiência de custódia"
+authors:
+  - family-names: "Souza Lima Júnior"
+    given-names: "Domingos José de"
+license: CC-BY-4.0
+url: "https://github.com/dom-lima/prisoes-cautelares"
+abstract: "Estudo jurídico e jurisprudencial sobre prisão em flagrante, prisão temporária, prisão preventiva e audiência de custódia, com as mudanças legislativas de 2016 a 2026."
