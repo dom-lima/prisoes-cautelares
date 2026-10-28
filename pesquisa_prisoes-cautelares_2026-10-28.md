@@ -44,7 +44,7 @@ lang: pt-BR
 
 > [!WARNING]
 >
-> Esta pesquisa foi elaborada com o auxílio de inteligência artificial (IA) — OpenCode, em terminal, com o modelo DeepSeek V4.1 — e de scripts de conferência. Cabe ao leitor consultar as fontes primárias antes de qualquer uso.
+> Esta pesquisa foi elaborada com o auxílio de inteligência artificial (IA) — OpenCode, em terminal, com o modelo DeepSeek V4.1 Flash 1017 — e de scripts de conferência. Cabe ao leitor consultar as fontes primárias antes de qualquer uso.
 
 > **Aviso.** Os dados desta pesquisa foram conferidos por meio de inteligência artificial (IA) e de scripts específicos. Contudo, cabe sempre ao leitor a responsabilidade de conferir as fontes na hipótese de uso.
 
@@ -54,7 +54,7 @@ lang: pt-BR
 - **Pesquisa realizada por:** Domingos José de Souza Lima Júnior
 - **Data da pesquisa:** 28/10/2026
 - **Bases consultadas:** legislação e jurisprudência do Supremo Tribunal Federal (STF) e do Superior Tribunal de Justiça (STJ) (curadoria interna); atos normativos do Conselho Nacional de Justiça (CNJ), em fonte oficial; e repositório externo, com os acórdãos assinalados como **[Repositório externo]**
-- **Uso de inteligência artificial (IA):** consulta às fontes e redação assistidas por IA generativa, em terminal, com o OpenCode e o modelo DeepSeek V4.1. A conferência das fontes primárias cabe ao leitor (ver seção 14).
+- **Uso de inteligência artificial (IA):** consulta às fontes e redação assistidas por IA generativa, em terminal, com o OpenCode e o modelo DeepSeek V4.1 Flash 1017. A conferência das fontes primárias cabe ao leitor (ver seção 14).
 - **Recorte e problema jurídico:** como se estruturam, no direito brasileiro, as três modalidades de prisão provisória e o controle judicial imediato da prisão; quais são os pressupostos, os requisitos, os prazos, as formalidades, as vedações e as consequências da ilegalidade de cada uma; e em que medida as leis de 2019 a 2026 e as resoluções do Conselho Nacional de Justiça (CNJ) alteraram esse regime. O recorte jurisprudencial é de 2016 a outubro de 2026; precedentes anteriores entram apenas quando indispensáveis à compreensão de um instituto ou quando reafirmados no período.
 
 # 2 Síntese executiva
