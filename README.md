@@ -7,11 +7,9 @@ Estudo jurídico e jurisprudencial sobre prisão em flagrante, prisão temporár
 **Autor:** Domingos José de Souza Lima Júnior
 **Data:** Realizado em 28 de outubro de 2026
 
-## Arquivos
+## Arquivo
 
-- [`pesquisa_prisoes-cautelares_2026-10-28.md`](pesquisa_prisoes-cautelares_2026-10-28.md)
 - [`pesquisa_prisoes-cautelares_2026-10-28.pdf`](pesquisa_prisoes-cautelares_2026-10-28.pdf)
-- [`pesquisa_prisoes-cautelares_2026-10-28.docx`](pesquisa_prisoes-cautelares_2026-10-28.docx)
 
 ## Licença
 
